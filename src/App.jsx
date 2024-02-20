@@ -30,7 +30,7 @@ function App() {
   // };
 
   return (
-    <div className='max-w-screen-xl mx-auto'>
+    <div className='mx-10 shadow-2xl'>
     <RouterProvider router={router}></RouterProvider>
     {/* <Toaster></Toaster> */}
   </div>

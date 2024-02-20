@@ -1,8 +1,9 @@
+import AddService from "../AddService/AddService";
 
 const Home = () => {
   return (
     <div >
-       <h1>hi</h1>
+       <AddService/>
     </div>
   );
 };
